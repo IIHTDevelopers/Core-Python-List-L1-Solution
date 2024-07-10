@@ -1,6 +1,6 @@
 import unittest
 
-from TestUtils import TestUtils
+from test.TestUtils import TestUtils
 
 class BoundaryTest(unittest.TestCase):
     def test_boundary(self):
