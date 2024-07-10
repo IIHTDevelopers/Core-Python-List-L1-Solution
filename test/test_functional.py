@@ -1,5 +1,5 @@
 import unittest
-from TestUtils import TestUtils
+from test.TestUtils import TestUtils
 
 # Functions to be tested
 def sort_numbers(nums):
